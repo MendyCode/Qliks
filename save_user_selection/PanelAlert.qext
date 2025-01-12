@@ -1,0 +1,7 @@
+{
+    "name": "Save Selection",
+    "description": "Connect to qrs and save user custom property data",
+    "type": "visualization",
+    "version": "1.0.0",
+    "author": "Mendy"
+}

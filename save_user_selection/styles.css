@@ -1,0 +1,25 @@
+.extension-container {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+}
+
+.update-button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.update-button:hover {
+    background-color: #45a049;
+}
+
+.update-status {
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 5px;
+    font-weight: bold;
+}
