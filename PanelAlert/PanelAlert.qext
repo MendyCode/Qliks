@@ -1,0 +1,7 @@
+{
+    "name": "Panel Alert",
+    "description": "A simple panel that alerts on click",
+    "type": "visualization",
+    "version": "1.0.0",
+    "author": "Mendy"
+}
