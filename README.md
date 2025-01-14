@@ -1,2 +1,2 @@
 # Qliks
-Scripts And Ext for Qlik On-Premise
+Scripts And Ext for Qlik On-Premise 
